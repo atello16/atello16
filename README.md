@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @atello16
 - 👀 I’m interested in learn about VCS with git
 - 🌱 I’m currently learning linux, front-end and web development
-- 📫 NCG
+- 📫 NCG, Chihuahua, MX.
